@@ -1,6 +1,6 @@
 Hi, I'm Răzvan 👋
 
-CS graduate (Babeș-Bolyai University, 2026) looking for a **junior / intern software engineering role** in Cluj-Napoca or remote.
+CS graduate (Babeș-Bolyai University, 2026) looking for a **junior / intern software engineering role** in Cluj-Napoca; open to Timișoara, Sibiu, Brașov, Iași, Oradea or remote.
 
 - 🎮 **[Steam Games Recommendation System](https://github.com/razvansfechis/steam-games-recommendation-system):** my thesis. A game recommender for 81k Steam games built with Python, TF-IDF and scikit-learn ([live app](https://steam-games-recommendation-system.streamlit.app/))
 - 💼 **Internship at Soft Design:** a full-stack app with Angular, ASP.NET Core and SQL Server
