@@ -1,4 +1,4 @@
-Hi, I'm Răzvan 👋
+### Hi, I'm Răzvan 👋
 
 CS graduate (Babeș-Bolyai University, 2026) looking for a **junior / intern software engineering role** in Cluj-Napoca; open to Timișoara, Sibiu, Brașov, Iași, Oradea or remote.
 
